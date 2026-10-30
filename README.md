@@ -1,6 +1,8 @@
 # 🚀 AI Study Chatbot (Offline)
 
+
 An offline AI-powered chatbot built with **Python**, **Streamlit**, and **Ollama (TinyLLaMA)**. It helps students with **DSA**, **DBMS**, and **technical interview preparation** without requiring an internet connection or paid AI APIs.
+
 
 ## 🔥 Features
 
