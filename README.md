@@ -51,7 +51,5 @@ AI-Study-Chatbot/
 ```
 
 ## 👨‍💻 Author
-
 **Dhruva Kolekar**
-
 GitHub: https://github.com/medhruva033
